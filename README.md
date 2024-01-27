@@ -1,6 +1,6 @@
 # Test Signer API
 
-The Test Signer API allows clients to signing answers and verifying the signatures of the answers.
+The Test Signer API allows clients to sign answers and verify the signatures of the answers.
 
 For persistence, it uses an **Sqlite** database.
 
