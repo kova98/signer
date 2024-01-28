@@ -10,7 +10,7 @@ To run the tests, open the _src_ directory and run `go test`
 
 ## Running The Server
 
-To run the server, open to the _src_ directory and run `go run .`
+To run the server, open the _src_ directory and run `go run .`
 
 The default port is 3000. Set env variable `PORT` to override.
 
